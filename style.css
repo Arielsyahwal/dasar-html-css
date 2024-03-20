@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.container div.head {
+    font-size: 20px;
+    text-align: center;
+    line-height: 12px;
+}
+
+.head p {
+    font-size: 15px;
+}
+
+.head h1 {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+div.nav h3{
+    line-height: 2px;
+    font-weight: bold;
+}
+
+div.nav li{
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+#bold {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.main p {
+    line-height: 25px;
+}
+
+.main h2 {
+    line-height: 5px;
+}
+
+#lyon {
+    line-height: 0px;
+    color: grey;
+}
+
+
